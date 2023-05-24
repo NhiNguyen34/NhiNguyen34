@@ -1,6 +1,5 @@
-![MasterHead](https://wallpapercave.com/wp/8duz5Ir.jpg)
 <h1 align="center">Hi 👋, I'm Nhi Nguyen</h1>
-<h3 align="center">I'm studying Data Science at University of Information Technology As working programmers, you need to keep learning all the time.</h3>
+<h3 align="center">I'm studying Data Science at University of Information Technology.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhinguyen34&label=Profile%20views&color=0e75b6&style=flat" alt="nhinguyen34" /> </p>
