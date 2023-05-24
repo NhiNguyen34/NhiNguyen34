@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/41/82/a9/4182a9dd330c6442c4a1fbc78274d838.png)
+![MasterHead](https://wallpapercave.com/wp/8duz5Ir.jpg)
 <h1 align="center">Hi 👋, I'm Nhi Nguyen</h1>
 <h3 align="center">I'm studying Data Science at University of Information Technology As working programmers, you need to keep learning all the time.</h3>
 
