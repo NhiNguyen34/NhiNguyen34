@@ -2,7 +2,6 @@
 <h3 align="center">I'm studying Data Science at University of Information Technology.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nhinguyen34&label=Profile%20views&color=0e75b6&style=flat" alt="nhinguyen34" /> </p>
 
 - 🌱 I’m currently learning **Deep Learning Specialization**
 
