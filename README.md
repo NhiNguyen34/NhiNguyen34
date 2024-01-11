@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yennhi.nguyenngoc03@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1-KDyInuOOrIbr1GJPXnV-BTJ6vBAZT7L](https://drive.google.com/drive/u/0/folders/1-KDyInuOOrIbr1GJPXnV-BTJ6vBAZT7L)
+- 📄 Know about my experiences [Here](https://nhinguyen34.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
