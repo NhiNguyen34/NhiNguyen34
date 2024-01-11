@@ -3,13 +3,12 @@
 
 
 
-- 🌱 I’m currently learning **Deep Learning Specialization**
+- 🌱 🔭 I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing.
 
-- 👨‍💻 All of my projects are available at [https://github.com/NhiNguyen34](https://github.com/NhiNguyen34)
+- 👨‍💻 ***All of my projects are available at [github](https://github.com/NhiNguyen34)***
 
-- 📫 How to reach me **yennhi.nguyenngoc03@gmail.com**
-
-- 📄 Know about my experiences [Here](https://nhinguyen34.github.io/)
+- 📫 ***How to reach me [email](mailto:yennhi.nguyenngoc03@gmail.com)***
+- 📄 ***Know about my experiences [github.io](https://nhinguyen34.github.io/)***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
