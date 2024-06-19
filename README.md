@@ -3,6 +3,7 @@
 
 
 
+
 - 🌱 🔭 I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing.
 
 - 👨‍💻 ***All of my projects are available at [github](https://github.com/NhiNguyen34)***
@@ -23,4 +24,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nhinguyen34&show_icons=true&locale=en" alt="nhinguyen34" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nhinguyen34&" alt="nhinguyen34" /></p>
