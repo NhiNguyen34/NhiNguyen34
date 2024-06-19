@@ -22,5 +22,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nhinguyen34&show_icons=true&locale=en&layout=compact" alt="nhinguyen34" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nhinguyen34&show_icons=true&locale=en" alt="nhinguyen34" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nhinguyen34&" alt="nhinguyen34" /></p>
 
